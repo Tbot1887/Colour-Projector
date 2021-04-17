@@ -1,4 +1,5 @@
-﻿#region copyright
+﻿using System.Resources;
+#region copyright
 /*
 This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0.
 If a copy of the MPL was not distributed with this file,
@@ -7,6 +8,7 @@ You can obtain one at https://mozilla.org/MPL/2.0/.
 Copyright 2021 By Thomas Ruigrok. Some Rights Reserved
 */
 #endregion
+
 using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
@@ -14,12 +16,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ColourProjecter")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Colour Projecter")]
+[assembly: AssemblyDescription("A simple application that allows the user to display an entire screen of any colour of their choosing.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ColourProjecter")]
-[assembly: AssemblyCopyright("Copyright ©  2020")]
+[assembly: AssemblyCompany("Thomas Ruigrok")]
+[assembly: AssemblyProduct("Colour Projecter")]
+[assembly: AssemblyCopyright("Copyright ©  2021 By Thomas Ruigrok. Some Rights Reserved")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -43,3 +45,5 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: NeutralResourcesLanguage("en-CA")]
+

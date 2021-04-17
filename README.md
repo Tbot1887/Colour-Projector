@@ -47,7 +47,7 @@ I Use [Semantic Versioning V2.0.0](https://semver.org/spec/v2.0.0.html) for vers
 ## License
 
 This project is licensed under the [MPL2.0 License](https://www.mozilla.org/en-US/MPL/2.0/)\
-\- See the [LICENSE.md](./LICENSE.md) file for details.
+\- See the [LICENCE.md](./LICENCE.md) file for details.
 
 ## Inspiration
 

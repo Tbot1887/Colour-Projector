@@ -121,13 +121,13 @@
   <data name="reset" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\reset.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="close-150-458082" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="close" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\close-150-458082.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="758593_arrows_512x512" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\758593_arrows_512x512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Custom Colour" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Custom_Colour" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Custom Colour.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minimize_arrows" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\758593_arrows_512x512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

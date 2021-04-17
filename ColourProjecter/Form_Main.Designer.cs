@@ -94,7 +94,7 @@
             // 
             this.Box_Close.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.Box_Close.BackColor = System.Drawing.Color.Black;
-            this.Box_Close.BackgroundImage = global::ColourProjecter.Properties.Resources.close_150_458082;
+            this.Box_Close.BackgroundImage = global::ColourProjecter.Properties.Resources.close;
             this.Box_Close.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.Box_Close.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Box_Close.InitialImage = null;
@@ -110,7 +110,7 @@
             // 
             this.Box_Minimize.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.Box_Minimize.BackColor = System.Drawing.Color.Black;
-            this.Box_Minimize.BackgroundImage = global::ColourProjecter.Properties.Resources._758593_arrows_512x512;
+            this.Box_Minimize.BackgroundImage = global::ColourProjecter.Properties.Resources.minimize_arrows;
             this.Box_Minimize.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.Box_Minimize.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Box_Minimize.InitialImage = null;

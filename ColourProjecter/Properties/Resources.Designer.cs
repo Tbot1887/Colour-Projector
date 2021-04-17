@@ -63,19 +63,9 @@ namespace ColourProjecter.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _758593_arrows_512x512 {
+        internal static System.Drawing.Bitmap close {
             get {
-                object obj = ResourceManager.GetObject("758593_arrows_512x512", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap close_150_458082 {
-            get {
-                object obj = ResourceManager.GetObject("close-150-458082", resourceCulture);
+                object obj = ResourceManager.GetObject("close", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -85,7 +75,17 @@ namespace ColourProjecter.Properties {
         /// </summary>
         internal static System.Drawing.Bitmap Custom_Colour {
             get {
-                object obj = ResourceManager.GetObject("Custom Colour", resourceCulture);
+                object obj = ResourceManager.GetObject("Custom_Colour", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap minimize_arrows {
+            get {
+                object obj = ResourceManager.GetObject("minimize_arrows", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
